@@ -34,7 +34,7 @@ if (window.innerWidth > 768) {
 }
 // Button click event for CV download
 document.querySelector('.btnn').addEventListener('click', function() {
-  window.location.href = 'GehanAli.Cv.pdf';  
+  window.location.href = 'GehanAli.full.cv.pdf';  
 });
 
 
